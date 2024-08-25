@@ -10,6 +10,18 @@ If both players choose the same option, the game is a tie. This game requires qu
 
 [Live Demo](https://rpschallenges.netlify.app/)
 
+# image Rock, Paper, Scissors
+  <img src="https://github.com/gnmjafari/rock-paper-scissors/blob/main/src/design/desktop-step-1.jpg?raw=true" style="width: 300px; height: auto;">
+  <img src="https://github.com/gnmjafari/rock-paper-scissors/blob/main/src/design/desktop-step-2.jpg?raw=true" style="width: 300px; height: auto;">
+  <img src="https://github.com/gnmjafari/rock-paper-scissors/blob/main/src/design/desktop-step-3.jpg?raw=true" style="width: 300px; height: auto;">
+  <img src="https://github.com/gnmjafari/rock-paper-scissors/blob/main/src/design/desktop-step-4-lose.jpg?raw=true" style="width: 300px; height: auto;">
+  <img src="https://github.com/gnmjafari/rock-paper-scissors/blob/main/src/design/desktop-step-4-win.jpg?raw=true" style="width: 300px; height: auto;">
+  <img src="https://github.com/gnmjafari/rock-paper-scissors/blob/main/src/design/mobile-step-1.jpg?raw=true" style="width: 300px; height: auto;">
+  <img src="https://github.com/gnmjafari/rock-paper-scissors/blob/main/src/design/mobile-step-2.jpg?raw=true" style="width: 300px; height: auto;">
+  <img src="https://github.com/gnmjafari/rock-paper-scissors/blob/main/src/design/mobile-step-3.jpg?raw=true" style="width: 300px; height: auto;">
+  <img src="https://github.com/gnmjafari/rock-paper-scissors/blob/main/src/design/mobile-step-4-lose.jpg?raw=true" style="width: 300px; height: auto;">
+  <img src="https://github.com/gnmjafari/rock-paper-scissors/blob/main/src/design/mobile-step-4-win.jpg?raw=true" style="width: 300px; height: auto;">
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
