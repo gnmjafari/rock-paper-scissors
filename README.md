@@ -1,3 +1,15 @@
+# Rock, Paper, Scissors
+Rock, Paper, Scissors is a simple and fun game played between two people. Each player simultaneously chooses one of three options: rock (a fist), paper (an open hand), or scissors (a fist with two fingers extended in a V shape).
+
+The rules are as follows:
+
+Rock crushes scissors (winner)
+Scissors cut paper (winner)
+Paper covers rock (winner)
+If both players choose the same option, the game is a tie. This game requires quick decision-making and strategy, and it's often used for making initial choices in other games or resolving small disputes.
+
+[Live Demo](https://rpschallenges.netlify.app/)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
